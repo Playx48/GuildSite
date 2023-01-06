@@ -1,2 +1,2 @@
-# RG
-https://playx48.github.io/RG/
+# GuildSite
+https://playx48.github.io/GuildSite/
